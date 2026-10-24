@@ -3,7 +3,7 @@
  * Plugin Name:       Scheduled Content Dashboard Pro
  * Plugin URI:        https://wordpress.org/plugins/scheduled-content-dashboard/
  * Description:       Adds a drag-and-drop Content Board to Scheduled Content Dashboard: move posts between statuses, publish from the board, undo any move.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.0
  * Requires PHP:      7.4
  * Author:            jeangalea
@@ -13,13 +13,14 @@
  * Update URI:        https://github.com/jgalea/scheduled-content-dashboard-pro
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Requires Plugins:  scheduled-content-dashboard
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
-define( 'SCDP_VERSION', '1.0.0' );
+define( 'SCDP_VERSION', '1.0.1' );
 define( 'SCDP_FILE', __FILE__ );
 define( 'SCDP_MIN_FREE_VERSION', '3.1.0' );
 
