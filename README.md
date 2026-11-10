@@ -1,4 +1,4 @@
-<h1 align="center">Scheduled Content Dashboard Pro</h1>
+<h1 align="center">Scheduled Content Dashboard PRO</h1>
 
 <p align="center">
 <a href="https://wordpress.org/plugins/scheduled-content-dashboard/"><img src="https://img.shields.io/badge/DOCS-wordpress.org-F5A623?style=for-the-badge" alt="Docs"></a>
